@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936925113565",
+    "project_id": "testing-login-54757",
+    "storage_bucket": "testing-login-54757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936925113565:android:b900f46691dcdfb037bf34",
+        "android_client_info": {
+          "package_name": "basicsidebars.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXHgj577trnfMCFpvBM6Pxpmp-EhkXl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
